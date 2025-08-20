@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Cześć 👋, jestem Dawid</h1>
-<h3 align="center">Jestem administratorem sieci informatycznej i aplikacji, ale pasjonuję się programowaniem. Obecnie uczę się języka java, springboot, angular.</h3>
+<h1 align="center">Cześć 👋</h1>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
